@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akudinso
+- 👋 Hi, I’m Kingsley
 - 👀 I’m interested in seeking knowledge
 - 🌱 I’m currently learning Full stack web3 Dev with java and ethical hacking.
 - 💞️ I’m looking to collaborate on anyone and everyone
